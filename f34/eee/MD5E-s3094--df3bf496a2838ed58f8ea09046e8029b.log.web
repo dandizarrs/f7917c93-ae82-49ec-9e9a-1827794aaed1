@@ -1,0 +1,4 @@
+1790705175s 1 https://dandiarchive.s3.amazonaws.com/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/processing/transcriptomics/cell_by_gene/xenium_cell_id/0?versionId=3tpBXBMfSbrCgzncA0hXXVL6Fb53ex5n
+1790705175s 1 https://api.dandiarchive.org/api/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/files?prefix=processing%2Ftranscriptomics%2Fcell_by_gene%2Fxenium_cell_id%2F0&download=true
+1790705177s 1 https://dandiarchive.s3.amazonaws.com/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/processing/transcriptomics/cell_types/xenium_cell_id/0?versionId=4QJPmHPaRa35lOnxQ_E5YvY96y0q5j0b
+1790705177s 1 https://api.dandiarchive.org/api/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/files?prefix=processing%2Ftranscriptomics%2Fcell_types%2Fxenium_cell_id%2F0&download=true

@@ -1,0 +1,4 @@
+1790705170s 1 https://dandiarchive.s3.amazonaws.com/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/processing/behavior/facemap_motion_energy/behavior_motion_energy/data/.zarray?versionId=0HdSAcxBsa1w.8uiFiqJbq2xfLyHWtoM
+1790705170s 1 https://api.dandiarchive.org/api/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/files?prefix=processing%2Fbehavior%2Ffacemap_motion_energy%2Fbehavior_motion_energy%2Fdata%2F.zarray&download=true
+1790705170s 1 https://dandiarchive.s3.amazonaws.com/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/processing/behavior/facemap_motion_energy/behavior_motion_energy_clean/data/.zarray?versionId=bDZkhzAMIwwP_PzD30IrPEo_whkzrBlB
+1790705170s 1 https://api.dandiarchive.org/api/zarr/f7917c93-ae82-49ec-9e9a-1827794aaed1/files?prefix=processing%2Fbehavior%2Ffacemap_motion_energy%2Fbehavior_motion_energy_clean%2Fdata%2F.zarray&download=true
